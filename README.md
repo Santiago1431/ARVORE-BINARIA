@@ -38,9 +38,15 @@ git clone https://https://github.com/Santiago1431/ARVORE-BINARIA.git
 - gcc -o arvore_binaria arvore_binaria.c
 
 ## Como Usar
-- Execute o programa compilado:
-
-./arvore_binaria
+- Execute o Comando no  compilado:
+  ~~~
+  make
+  ~~~
+- Depois Execute:
+  ~~~
+  ./main.exe
+  ~~~
+  
 Siga as instruções no terminal para inserir nós, buscar elementos e realizar outras operações.
 
 ## Exemplo de Uso
