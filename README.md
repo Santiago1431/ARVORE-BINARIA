@@ -35,7 +35,6 @@ bash
 Copiar código
 git clone https://https://github.com/Santiago1431/ARVORE-BINARIA.git
 - cd nome-do-repositorio
-- gcc -o arvore_binaria arvore_binaria.c
 
 ## Como Usar
 - Execute o Comando no  compilado:
