@@ -8,5 +8,7 @@ typedef struct ArvoreBin{
 
 no* inserir(no *raiz, int dado);
 void exibir (no *raiz);
+no* buscar(no *raiz, int dado);
+no* remover(no* raiz, int dado);
 
 #endif
