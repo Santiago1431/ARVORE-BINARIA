@@ -72,6 +72,7 @@ int main() {
     return 0;
 }
 ```
+### O programa agora se encontra totalmente interativo , assim, não tem a nescessidade de usar o codigo acima, realização das operações sao feitas na execução
 
 ## Estrutura do Repositório
 - arvore_binaria.c: Implementação das funções da árvore binária
